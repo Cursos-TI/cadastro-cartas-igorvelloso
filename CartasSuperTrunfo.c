@@ -7,6 +7,7 @@
 int main() {
 
   printf("Desafio Super Trunfo!\n");
+  printf("novo commit\n");
   // Área para definição das variáveis para armazenar as propriedades das cidades
 
   // Área para entrada de dados
